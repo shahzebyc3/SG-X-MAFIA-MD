@@ -33,7 +33,7 @@
 
 ## 🔑  SGSG-X-MAFIA-MD 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 PAIR
 <p align="center">
-  <a href="https://sgmdpair-4c0371b50304.herokuapp.com/">
+  <a href="https://sgpairsite-170d1cc198b7.herokuapp.com/">
     <img src="https://img.shields.io/badge/Get-Session_ID-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>

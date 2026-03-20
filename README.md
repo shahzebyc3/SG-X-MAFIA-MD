@@ -13,7 +13,7 @@
 </h1>
 
 <p align="center">
-  <b>A multi-device WhatsApp bot created & maintained by <span style="color:#00FFFF">WAQAR</span> 🚀</b>
+  <b>A multi-device WhatsApp bot created & maintained by <span style="color:#00FFFF">SGPLAYER</span> 🚀</b>
 </p>
 
 ---
@@ -33,7 +33,7 @@
 
 ## 🔑  SGSG-X-MAFIA-MD 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 PAIR
 <p align="center">
-  <a href="https://sgpairsite-170d1cc198b7.herokuapp.com/">
+  <a href="https://sg-x-mafia-pair-7e1ddc9d0ed2.herokuapp.com/">
     <img src="https://img.shields.io/badge/Get-Session_ID-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
